@@ -5,7 +5,7 @@ Este aplicativo tem como objetivo gerar frases aleatórias a partir de uma API d
 ## 🚀 Demonstração
 
 ![image](assets/final-project.png)
-[Clique aqui](link aqui) para acessar o resultado final do projeto.
+[Clique aqui](https://flaviomattosdev.github.io/Quote-Generator/) para acessar o resultado final do projeto.
 
 ## 🛠️ Tecnologias Utilizadas
 
